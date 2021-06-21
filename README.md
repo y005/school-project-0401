@@ -6,7 +6,7 @@
   
   2학기 졸업작품 계획 및 프로토타입 개발
   
-  관련 URL:
+  관련 URL: https://github.com/y005/graduation_project
   
 - 제 1회 교내 프로그래밍 경진대회(SMUPC) (21.05.08)
   
