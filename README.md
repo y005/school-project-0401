@@ -8,12 +8,6 @@
   
   관련 URL: https://github.com/y005/graduation_project
   
-- 제 1회 교내 프로그래밍 경진대회(SMUPC) (21.05.08)
-  
-  성적: 3 SOL (8/150)
-  
-  관련 URL: https://www.acmicpc.net/contest/scoreboard/617
-  
 - 데이터마이닝 및 분석
 
   필기노트
